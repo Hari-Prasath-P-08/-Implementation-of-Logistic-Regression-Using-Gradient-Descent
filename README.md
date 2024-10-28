@@ -16,12 +16,11 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
    Regression value.
 
 ## Program:
-```
-/*
-Program to implement the the Logistic Regression Using Gradient Descent.
-Developed by: Hari Prasath. P
-RegisterNumber:  212223230070
-*/
+```python
+
+# Program to implement the the Logistic Regression Using Gradient Descent.
+# Developed by: Hari Prasath. P
+# RegisterNumber:  212223230070
 
 import numpy as np
 import matplotlib.pyplot as plt
